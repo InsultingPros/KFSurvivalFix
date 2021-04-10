@@ -1,6 +1,6 @@
 # KF Survival Fix
 
-![GitHub all releases](https://img.shields.io/github/downloads/Insulting-Pros/KFSurvivalFix/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/KFSurvivalFix/total)](https://github.com/InsultingPros/KFSurvivalFix/releases)
 
 Endless waves, few gamestyles to choose from and fun new zeds. For more info check original [thread](https://forums.tripwireinteractive.com/index.php?threads/game-survival-endless.86173/).
 
@@ -15,6 +15,8 @@ Game=KFSurvivalFix.KFSurvival
 ## Building and Dependancies
 
 At the moment of 2021.03.27 there are no dependencies.
+
+Use [KF Compile Tool](https://github.com/InsultingPros/KFCompileTool) for easy compilation.
 
 **EditPackages**
 
