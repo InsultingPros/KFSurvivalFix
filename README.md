@@ -1,6 +1,6 @@
 # KF Survival Fix
 
-![GitHub all releases](https://img.shields.io/github/downloads/Insulting-Pros/KFSurvivalFix/total)
+![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/KFSurvivalFix/total)
 
 Endless waves, few gamestyles to choose from and fun new zeds. For more info check original [thread](https://forums.tripwireinteractive.com/index.php?threads/game-survival-endless.86173/).
 
